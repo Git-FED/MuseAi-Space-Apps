@@ -1,0 +1,8 @@
+/*
+  Static security and caching headers for GitHub Pages-compatible hosting.
+  Cloudflare Pages reads this file when deployed from the project root.
+*/
+/*  /
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
